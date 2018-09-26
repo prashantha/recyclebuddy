@@ -20,7 +20,7 @@ public class App
 {
     private static final String GCP_PROJECT = "recycle-buddy";
     private static final String GCP_LOCATION = "us-central1";
-    private static final String AUTOML_MODEL_ID = "ICN5772469721644251948";
+    private static final String AUTOML_MODEL_ID = "ICN3866551369314271958";
 	public static void main( String[] args )
     {
     	PredictionServiceClient predictionServiceClient = null;
